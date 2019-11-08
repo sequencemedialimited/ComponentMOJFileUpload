@@ -4,7 +4,8 @@
   "heading": "Component - File Upload",
   "steps": [
     "page.file-upload",
-    "page.check-answers"
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }
