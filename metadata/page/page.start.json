@@ -1,9 +1,9 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "heading": "Component - File Upload",
+  "heading": "Component - MOJ File Upload",
   "steps": [
-    "page.file-upload",
+    "page.moj-file-upload",
     "page.check-answers",
     "page.confirmation"
   ],

@@ -1,0 +1,14 @@
+{
+  "_id": "page.moj-file-upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.moj-file-upload--mojFileupload.auto_name__1",
+      "_type": "mojFileupload",
+      "label": "MOJ File Upload",
+      "name": "auto_name__1"
+    }
+  ],
+  "sectionHeading": "MOJ File Upload",
+  "url": "moj-file-upload"
+}
