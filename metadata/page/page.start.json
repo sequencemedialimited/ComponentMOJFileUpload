@@ -4,7 +4,6 @@
   "heading": "Component - MOJ File Upload",
   "steps": [
     "page.moj-file-upload",
-    "page.check-answers",
     "page.confirmation"
   ],
   "url": "/"
