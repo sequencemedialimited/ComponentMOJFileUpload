@@ -3,12 +3,13 @@
   "_type": "page.start",
   "heading": "Component - MOJ Upload",
   "steps": [
-    "page.moj-upload",
-    "page.moj-upload-summary",
     "page.moj-1",
     "page.moj-1-summary",
     "page.moj-2",
-    "page.moj-2-summary"
+    "page.moj-2-summary",
+    "page.deletable-moj-upload",
+    "page.deletable-moj-upload-summary",
+    "page.deletable-moj-upload-confirmation"
   ],
   "url": "/"
 }
