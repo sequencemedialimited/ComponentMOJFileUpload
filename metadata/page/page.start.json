@@ -1,10 +1,14 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "heading": "Component - MOJ File Upload",
+  "heading": "Component - MOJ Upload",
   "steps": [
-    "page.moj-file-upload",
-    "page.confirmation"
+    "page.moj-upload",
+    "page.moj-upload-summary",
+    "page.moj-1",
+    "page.moj-1-summary",
+    "page.moj-2",
+    "page.moj-2-summary"
   ],
   "url": "/"
 }
