@@ -1,0 +1,20 @@
+{
+  "_id": "page.upload-2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload-2--upload.auto_name__5",
+      "_type": "upload",
+      "label": "Upload 2",
+      "name": "auto_name__5"
+    }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page.upload-2-check",
+    "page.upload-2-summary",
+    "page.upload-2-check-answers",
+    "page.upload-2-confirmation"
+  ],
+  "url": "upload-2"
+}

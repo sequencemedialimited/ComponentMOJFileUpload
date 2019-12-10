@@ -1,15 +1,13 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "heading": "Component - MOJ Upload",
+  "heading": "Component - Upload",
   "steps": [
-    "page.moj-1",
-    "page.moj-1-summary",
-    "page.moj-2",
-    "page.moj-2-summary",
-    "page.deletable-moj-upload",
-    "page.deletable-moj-upload-summary",
-    "page.deletable-moj-upload-confirmation"
+    "page.start-upload",
+    "page.upload-check",
+    "page.upload-summary",
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }

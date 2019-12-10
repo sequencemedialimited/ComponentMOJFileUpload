@@ -1,0 +1,6 @@
+{
+  "_id": "page.upload-summary",
+  "_type": "page.uploadSummary",
+  "heading": "Upload Summary",
+  "url": "upload-summary"
+}

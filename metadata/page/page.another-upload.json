@@ -1,0 +1,18 @@
+{
+  "_id": "page.another-upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.another-upload--upload.auto_name__2",
+      "_type": "upload",
+      "label": "Another Upload",
+      "name": "auto_name__2"
+    }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page.another-upload-check",
+    "page.another-upload-summary"
+  ],
+  "url": "another-upload"
+}
