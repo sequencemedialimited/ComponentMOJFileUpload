@@ -3,11 +3,14 @@
   "_type": "page.start",
   "heading": "Component - Upload",
   "steps": [
-    "page.start-upload",
-    "page.upload-check",
+    "page.upload-first",
+    "page.upload-second",
+    "page.upload-third",
+    "page.upload-fourth",
+    "page.upload-fifth",
+    "page.upload-sixth",
     "page.upload-summary",
-    "page.check-answers",
-    "page.confirmation"
+    "page.upload-confirmation"
   ],
   "url": "/"
 }
